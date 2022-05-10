@@ -6,7 +6,6 @@
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 <!-- * [License](#license) -->
 
@@ -18,22 +17,17 @@
 
 ## Technologies Used
 - Used Spurgeon website template, designed by StyleShout (https://www.styleshout.com/free-templates/spurgeon/)
+- I used GitHub Desktop, Visual Studio Code, and Azure Web Apps to edit the code, push it to GitHub, and display it on the Internet. 
 
 ## Features
 - My website has three pages: Home, About, and Contact
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+The template is what I initally used to obtain the code. All of the code can be found in the repoistory. I edited to code as needed for the website. 
+The css folder contains the stylings that were used for the website. The index.html file contains code about the 'Home' page, about.html contains code for the 'About' page, and contact.html contains code for the 'Contact' page. 
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
 
 
 ## Project Status

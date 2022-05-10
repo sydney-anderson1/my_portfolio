@@ -1,11 +1,10 @@
-# Project Name
-> my_portfolio repository is what I used to create my website: sydney-anderson.com
+# My Portfolio
+> my_portfolio is what I used to create my website: sydney-anderson.com
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used] (#technologies-used)
+* [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -21,15 +20,7 @@
 - Used Spurgeon website template, designed by StyleShout (https://www.styleshout.com/free-templates/spurgeon/)
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+- My website has three pages: Home, About, and Contact
 
 
 ## Setup
@@ -46,4 +37,4 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: complete, as of now! I will be adding more information as I begin and continue my career.
+Project is: complete, as of now! I will be editing it and adding more information as I begin and continue my career.
